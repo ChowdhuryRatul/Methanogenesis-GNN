@@ -1,0 +1,30 @@
+# randydb.txt
+
+# halo: Halogens
+# coen: Coenzyme-B analogs
+# nitro: Nitro-ol/esters
+# stn: Statins
+# ptrn: Pterins
+
+# Format: Category|Generic Name|IUPAC Name|SMILES
+
+halo|Bromoform|1,1,1-tribromomethane|BrC(Br)Br
+
+coen|COB5|N-5-mercaptopentanoylthreonine phosphate|P(=O)(O)(O)O[C@@H]([C@H](NC(CCCCS)=O)C(=O)O)C
+coen|COB6|N-6-mercaptohexanoylthreonine phosphate|P(=O)(O)(O)O[C@@H]([C@H](NC(CCCCCS)=O)C(=O)O)C
+coen|COB7|N-7-mercaptoheptanoylthreonine phosphate|P(=O)(O)(O)O[C@@H]([C@H](NC(CCCCCCS)=O)C(=O)O)C
+coen|COB8|N-8-mercaptooctanoylthreonine phosphate|P(=O)(O)(O)O[C@@H]([C@H](NC(CCCCCCCS)=O)C(=O)O)C
+coen|COB9|N-9-mercaptononanoylthreonine phosphate|P(=O)(O)(O)O[C@@H]([C@H](NC(CCCCCCCCS)=O)C(=O)O)C
+
+nitro|2-Nitroethanol|2-Nitroethanol|[N+](=O)([O-])CCO
+nitro|2-Nitropropanol|2-Nitropropanol|[N+](=O)([O-])C(CO)C
+nitro|3-Nitropropionate|3-Nitropropionate|[N+](=O)([O-])CCC(=O)[O-]
+nitro|3-Nitrooxypropanol [3NOP]|3-Nitrooxypropanol|[N+](=O)([O-])OCCCO
+
+stn|Atorvastatin|(3R,5R)-7-[2-(4-fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-propan-2-ylpyrrol-1-yl]-3,5-dihydroxyheptanoic acid|FC1=CC=C(C=C1)C=1N(C(=C(C1C1=CC=CC=C1)C(NC1=CC=CC=C1)=O)C(C)C)CC[C@H](C[C@H](CC(=O)O)O)O
+stn|Rosuvastatin|(E,3R,5S)-7-[4-(4-fluorophenyl)-2-[methyl(methylsulfonyl)amino]-6-propan-2-ylpyrimidin-5-yl]-3,5-dihydroxyhept-6-enoic acid|FC1=CC=C(C=C1)C1=NC(=NC(=C1/C=C/[C@H](C[C@H](CC(=O)O)O)O)C(C)C)N(S(=O)(=O)C)C
+stn|Simvastatin|[(1S,3R,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] 2,2-dimethylbutanoate|CC(C(=O)O[C@H]1C[C@H](C=C2C=C[C@@H]([C@@H]([C@@H]12)CC[C@H]1OC(C[C@@H](C1)O)=O)C)C)(CC)C
+
+ptrn|Pterin B53|2,6-diamino-5-nitrosopyrimidin-4(3H)-one|NC1=NC(=C(C(N1)=O)N=O)N
+ptrn|Pterin B54|4-{3-[(2-amino-5-nitroso-6-oxo-1,6-dihydropyrimidin-4-yl)amino]propoxy}benzoic acid|NC=1NC(C(=C(N1)NCCCOC1=CC=C(C(=O)O)C=C1)N=O)=O
+ptrn|Pterin B55|2-amino-8-sulfanyl-1,9-dihydro-6H-purin-6-one|NC=1NC(C=2N=C(NC2N1)S)=O
